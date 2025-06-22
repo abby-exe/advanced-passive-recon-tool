@@ -10,6 +10,10 @@ The **Advanced Passive Reconnaissance Tool** automates the collection and analys
 
 Built to demonstrate effective and stealthy OSINT techniques.
 
+## 📸 Screenshots
+
+![Homepage Screenshot](passrecon.jpg)
+
 ---
 
 ## 🔑 Key Features
