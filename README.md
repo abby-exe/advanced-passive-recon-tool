@@ -12,7 +12,11 @@ Built to demonstrate effective and stealthy OSINT techniques.
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](passrecon.jpg)
+### 🖥 Homepage Screenshot
+
+<p align="center">
+  <img src="passrecon.jpg" alt="Homepage Screenshot" width="600">
+</p>
 
 ---
 
